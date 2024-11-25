@@ -27,8 +27,8 @@ Ensure that you use this application responsibly and with full integrity. I do n
 
 ### Windows
 1. **Download the Application**:
-   - [Juggler.exe](Installers/Juggler.exe): Standalone executable.
-   - [JugglerPortable.zip](Installers/JugglerPortable.zip): Portable version.
+   - [Juggler.exe](Installers/Juggler.exe): Standalone executable Installer Method.
+   - [JugglerPortable.zip](Installers/JugglerPortable.zip): Portable version Non Installer Method.
 
 2. **Run the Application**:
    - Double-click `Juggler.exe` to launch the application.
