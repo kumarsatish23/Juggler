@@ -88,7 +88,7 @@ Juggler
 
 ## 📷 Screenshots
 ![Juggler Splash Screen](src/main/resources/OMUNMO0.png)
-![Juggler Splash Screen](src/main/resources/Screenshot 2024-11-25 163900.png)
+![Juggler Splash Screen](src/main/resources/Screenshot.png)
 
 ---
 
