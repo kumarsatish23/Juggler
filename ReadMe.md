@@ -121,7 +121,7 @@ Contributions are welcome! Here's how you can help:
 ## 📨 Contact
 
 For questions or support, reach out via:
-- LinkedIn: [ReachOut](https://www.linkedin.com/in/kumarsatish23/)
+- LinkedIn: [Satish Kumar Rai](https://www.linkedin.com/in/kumarsatish23/)
 
 ---
 
