@@ -29,13 +29,17 @@ Ensure that you use this application responsibly and with full integrity. I do n
 ## 🛠️ Installation
 
 ### Windows
-1. **Download the Application**:
-   - [Juggler.exe](Installers/Juggler.exe): Standalone executable Installer Method.
-   - [JugglerPortable.zip](Installers/JugglerPortable.zip): Portable version Non Installer Method.
+1. **Download the Application** : Choose your preferred version below
+
+| **Version**        | **Description**                          | **Download**                                                                                          |
+|---------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| **Installer**       | Standalone executable for easy setup.   | [![Download Juggler Installer](https://img.shields.io/badge/⬇%20Download-Juggler%20Installer-blue)](https://github.com/kumarsatish23/Juggler/raw/main/Installers/Juggler.exe) |
+| **Portable Version**| No installation required.               | [![Download Juggler Portable](https://img.shields.io/badge/⬇%20Download-Juggler%20Portable-blue)](https://github.com/kumarsatish23/Juggler/raw/main/Installers/JugglerPortable.zip) |
 
 2. **Run the Application**:
    - Double-click `Juggler.exe` to launch the application.
    - For the portable version, extract the `JugglerPortable.zip` and run `Juggler.exe`.
+
 
 ### Maven (For Developers)
 1. Clone this repository:
