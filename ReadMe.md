@@ -2,7 +2,7 @@
 
 ![Juggler Icon](src/main/resources/Juggler.png)
 
-[![Download Juggler](https://img.shields.io/badge/⬇%20Download-Juggler-blue)](https://github.com/kumarsatish23/Juggler/blob/main/ReadMe.md#%EF%B8%8F-installation)
+[![Download Juggler](https://img.shields.io/badge/⬇%20Download-Juggler-blue)](https://github.com/kumarsatish23/Juggler#%EF%B8%8F-installation)
 
 
 Juggler is a lightweight desktop application that automates mouse movements and switches between windows, simulating activity on your computer. Whether you need to prevent your system from going idle or want to keep programs active, Juggler is here to help.
